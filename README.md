@@ -21,7 +21,7 @@ hi, i'm [Nayan Raval](https://nayanraval00.github.io/nayanraval.github.io/), a p
 i am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:ravalnayan029@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
