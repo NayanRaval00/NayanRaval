@@ -1,12 +1,15 @@
 ### hey there 
 <a href="https://www.instagram.com/nayanraval__/">
   <img align="left" alt="Nayan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+<!-- </a>
 <a href="nayanraval#5566">
-  <img align="left" alt="Nayan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Nayan's Discord" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
+</a> -->
+  <a href="https://www.youtube.com/channel/UCdA2ZFNvA-Kw9IEOfS6cD2g">
+  <img align="left" alt="Nayan's Discord" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
 <a href="https://twitter.com/Nayanraval029">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nayan-raval-224969170">
   <img align="left" alt="Nayan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
