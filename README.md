@@ -1,4 +1,19 @@
-### hey there 
+<h1 align="center">Hi 👋, I'm Nayan Raval</h1>
+-------
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=nayanraval00&label=Profile%20views&color=0e75b6&style=flat" alt="nayanraval" /> 
+  <img src="https://wakatime.com/badge/user/d4b6a03f-d30d-44ff-8e42-427244fd00ce.svg"/>
+</p>
+
+-------
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NayanRaval00&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NayanRaval00&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NayanRaval00&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NayanRaval00&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NayanRaval00&theme=github_dark)
+
+-------
 <a href="https://www.instagram.com/nayanraval__/">
   <img align="left" alt="Nayan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 <!-- </a>
