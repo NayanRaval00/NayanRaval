@@ -3,7 +3,7 @@
 -------
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=nayanraval00&label=Profile%20views&color=0e75b6&style=flat" alt="nayanraval" /> 
-  <img src="https://wakatime.com/badge/user/d4b6a03f-d30d-44ff-8e42-427244fd00ce.svg"/>
+  <img src="https://wakatime.com/badge/user/018e9893-b43d-4461-9436-8226d09a5474.svg"/>
 </p>
 
 -------
